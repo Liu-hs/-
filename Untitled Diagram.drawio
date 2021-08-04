@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T06:04:15.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="V48x1JlVuhEkIn9oBbrc" version="14.9.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-04T09:15:35.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="A9FQGUVTmYhyY2kiDQ2V" version="14.9.2" type="github" pages="2">
   <diagram id="9er5RW46-mA64O8XQp0p" name="Page-1">
-    <mxGraphModel dx="1422" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,8 +144,10 @@
         <mxCell id="jWoE7ujcPuWihpP76wZ1-37" value="Y&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="jWoE7ujcPuWihpP76wZ1-42">
           <mxGeometry x="237" y="920" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jWoE7ujcPuWihpP76wZ1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jWoE7ujcPuWihpP76wZ1-42" source="jWoE7ujcPuWihpP76wZ1-27" target="jWoE7ujcPuWihpP76wZ1-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jWoE7ujcPuWihpP76wZ1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jWoE7ujcPuWihpP76wZ1-42" source="jWoE7ujcPuWihpP76wZ1-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237" y="839" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jWoE7ujcPuWihpP76wZ1-38" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;robotodraft&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;nimbus sans l&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;liberation sans&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;sour    ce han sans cn normal&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;wenquanyi zen hei&amp;#34; , &amp;#34;st heiti&amp;#34; , &amp;#34;simhei&amp;#34; , &amp;#34;wenquanyi zen hei sharp&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;劳动者侧_求职线索收集表&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="jWoE7ujcPuWihpP76wZ1-42">
           <mxGeometry x="367" width="120" height="80" as="geometry" />
