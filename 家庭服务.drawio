@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T09:49:45.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="na37NhUvcjBOzew24BD2" version="16.5.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-16T09:57:08.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="BJISPFACCcPWcdC9i6E1" version="16.5.6" type="github" pages="3">
   <diagram id="9er5RW46-mA64O8XQp0p" name="Page-1">
     <mxGraphModel dx="1022" dy="436" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1132,42 +1132,42 @@
           <mxGeometry x="52" y="821" width="614" height="83" as="geometry" />
         </mxCell>
         <mxCell id="B4CUguUEGcCA_pv7hJzX-0" value="经纪人角度业务流程：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="T3wQ4acbohLQeAf4zLge-1" vertex="1">
-          <mxGeometry x="1757" y="67" width="130" height="18" as="geometry" />
+          <mxGeometry x="1884" y="263.25" width="130" height="18" as="geometry" />
         </mxCell>
         <mxCell id="igM6PJkrTx6lx4_yaeZT-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" parent="T3wQ4acbohLQeAf4zLge-1" source="B4CUguUEGcCA_pv7hJzX-15" target="igM6PJkrTx6lx4_yaeZT-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B4CUguUEGcCA_pv7hJzX-15" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;跟进客户&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="T3wQ4acbohLQeAf4zLge-1" vertex="1">
-          <mxGeometry x="1933" y="285.75" width="120" height="30" as="geometry" />
+          <mxGeometry x="2060" y="482" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igM6PJkrTx6lx4_yaeZT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" parent="T3wQ4acbohLQeAf4zLge-1" source="igM6PJkrTx6lx4_yaeZT-3" target="igM6PJkrTx6lx4_yaeZT-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="igM6PJkrTx6lx4_yaeZT-3" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;更新需求意向和需求状态&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="T3wQ4acbohLQeAf4zLge-1" vertex="1">
-          <mxGeometry x="1933" y="357.75" width="120" height="30" as="geometry" />
+          <mxGeometry x="2060" y="554" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igM6PJkrTx6lx4_yaeZT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" parent="T3wQ4acbohLQeAf4zLge-1" source="igM6PJkrTx6lx4_yaeZT-5" target="igM6PJkrTx6lx4_yaeZT-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="igM6PJkrTx6lx4_yaeZT-5" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;寻找合适阿姨&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="T3wQ4acbohLQeAf4zLge-1" vertex="1">
-          <mxGeometry x="1933" y="412.75" width="120" height="30" as="geometry" />
+          <mxGeometry x="2060" y="609" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igM6PJkrTx6lx4_yaeZT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" parent="T3wQ4acbohLQeAf4zLge-1" source="igM6PJkrTx6lx4_yaeZT-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1993" y="548.75" as="targetPoint" />
+            <mxPoint x="2120" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="igM6PJkrTx6lx4_yaeZT-7" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;安排客户与阿姨面试&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="T3wQ4acbohLQeAf4zLge-1" vertex="1">
-          <mxGeometry x="1933" y="480.75" width="120" height="30" as="geometry" />
+          <mxGeometry x="2060" y="677" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igM6PJkrTx6lx4_yaeZT-47" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;追踪订单，回访用户和阿姨&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="T3wQ4acbohLQeAf4zLge-1" vertex="1">
-          <mxGeometry x="1933" y="627.75" width="120" height="30" as="geometry" />
+          <mxGeometry x="2060" y="824" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igM6PJkrTx6lx4_yaeZT-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" parent="T3wQ4acbohLQeAf4zLge-1" source="igM6PJkrTx6lx4_yaeZT-48" target="igM6PJkrTx6lx4_yaeZT-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="igM6PJkrTx6lx4_yaeZT-48" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;创建订单&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="T3wQ4acbohLQeAf4zLge-1" vertex="1">
-          <mxGeometry x="1933" y="547.25" width="120" height="30" as="geometry" />
+          <mxGeometry x="2060" y="743.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4P0eioY_hSoK8zpyynvr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T3wQ4acbohLQeAf4zLge-1" source="4P0eioY_hSoK8zpyynvr-10" target="4P0eioY_hSoK8zpyynvr-13">
           <mxGeometry relative="1" as="geometry" />
@@ -1176,28 +1176,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4P0eioY_hSoK8zpyynvr-10" value="是否在线" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="T3wQ4acbohLQeAf4zLge-1">
-          <mxGeometry x="1921" y="134" width="144" height="45" as="geometry" />
+          <mxGeometry x="2048" y="330.25" width="144" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4P0eioY_hSoK8zpyynvr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T3wQ4acbohLQeAf4zLge-1" source="4P0eioY_hSoK8zpyynvr-11" target="4P0eioY_hSoK8zpyynvr-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4P0eioY_hSoK8zpyynvr-11" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;打卡上班&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="T3wQ4acbohLQeAf4zLge-1">
-          <mxGeometry x="1933" y="61" width="120" height="30" as="geometry" />
+          <mxGeometry x="2060" y="257.25" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4P0eioY_hSoK8zpyynvr-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T3wQ4acbohLQeAf4zLge-1" source="4P0eioY_hSoK8zpyynvr-13" target="B4CUguUEGcCA_pv7hJzX-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4P0eioY_hSoK8zpyynvr-13" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;接收线索&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="T3wQ4acbohLQeAf4zLge-1">
-          <mxGeometry x="1933" y="220.25" width="120" height="31" as="geometry" />
+          <mxGeometry x="2060" y="416.5" width="120" height="31" as="geometry" />
         </mxCell>
         <mxCell id="4P0eioY_hSoK8zpyynvr-18" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="T3wQ4acbohLQeAf4zLge-1">
-          <mxGeometry x="1997" y="176" width="18" height="18" as="geometry" />
+          <mxGeometry x="2124" y="372.25" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="4P0eioY_hSoK8zpyynvr-19" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;不在线&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="T3wQ4acbohLQeAf4zLge-1">
-          <mxGeometry x="1820" y="140.75" width="78" height="31.5" as="geometry" />
+          <mxGeometry x="1947" y="337" width="78" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="4P0eioY_hSoK8zpyynvr-21" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="T3wQ4acbohLQeAf4zLge-1">
-          <mxGeometry x="1913" y="129" width="19" height="18" as="geometry" />
+          <mxGeometry x="2040" y="325.25" width="19" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
